@@ -10,3 +10,4 @@ end
 
 
 
+my_collect(students) { |student| student.upcase}
