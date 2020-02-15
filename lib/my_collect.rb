@@ -1,5 +1,5 @@
 students = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-
+languages = ['ruby', 'javascript', 'python', 'objective-c']
 def my_collect(students)
   student = []
   students.each do |student|
