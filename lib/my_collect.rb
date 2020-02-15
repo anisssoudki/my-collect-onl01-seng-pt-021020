@@ -1,5 +1,5 @@
 def my_collect(students)
-  students.each do |name|
+  students.each do |student|
     return name
    yield
   end
