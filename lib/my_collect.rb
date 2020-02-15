@@ -3,7 +3,7 @@ languages = ['ruby', 'javascript', 'python', 'objective-c']
 def my_collect(students)
   student = []
   i = 0
-  while i < students.length
+  while i < student.length
   name_collection.push yield(array[i])
   i +=1
   end
