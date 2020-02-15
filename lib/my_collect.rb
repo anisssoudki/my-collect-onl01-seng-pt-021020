@@ -13,3 +13,4 @@ end
 
 
 my_collect(students) { |student| student.upcase}
+my_collect(languages) { |language| language.upcase}
