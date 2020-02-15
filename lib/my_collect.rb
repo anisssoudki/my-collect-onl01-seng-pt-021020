@@ -2,7 +2,7 @@ def my_collect(students)
   student = []
   students.each do |student|
     return student
-    students.push
+    student.push
    yield
   end
   
