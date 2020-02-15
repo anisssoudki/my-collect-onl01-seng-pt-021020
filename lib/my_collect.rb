@@ -12,4 +12,4 @@ end
 
 
 
-my_collect(students) { |student| student.upcase}
+my_collect(students) { |student| student.split(" ").first}
