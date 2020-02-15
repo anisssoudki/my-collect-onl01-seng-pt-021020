@@ -1,3 +1,5 @@
+students = []
+
 def my_collect(students)
   student = []
   students.each do |student|
