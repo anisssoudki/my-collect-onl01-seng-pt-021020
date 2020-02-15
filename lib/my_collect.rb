@@ -1,6 +1,8 @@
 def my_collect(students)
+  student = []
   students.each do |student|
-    return name
+    return student
+    students.push
    yield
   end
   
